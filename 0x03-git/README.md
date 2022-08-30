@@ -1,1 +1,1 @@
-I LOVE ALX SCHOOL!!
+I hate ALX SCHOOL
