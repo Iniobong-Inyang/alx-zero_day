@@ -1,1 +1,2 @@
-I hate ALX SCHOOL
+my second commit 
+I am a child of God
